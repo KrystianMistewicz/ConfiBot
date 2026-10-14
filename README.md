@@ -1,5 +1,9 @@
 # ConfiBot
 
+
+<img width="2494" height="1334" alt="image" src="https://github.com/user-attachments/assets/16e19780-ceb8-4763-8f2f-8dbddc60847c" />
+
+
 ConfiBot is a lightweight local chatbot application built with Python, Gradio, and a local LLM API. It is designed to run on your own machine so your conversations stay private and do not depend on a remote cloud service.
 
 The project includes:
