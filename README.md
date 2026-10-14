@@ -52,14 +52,18 @@ pip install -r requirements.txt
 
 4. Download Ollama models:
 
+```bash
 ollama pull qwen2.5:3b
 ollama pull hf.co/second-state/Bielik-4.5B-v3.0-Instruct-GGUF:Q4_K_M
+```
 
 ## Running the app
 
 Start Ollama in a separate terminals:
+```bash
 ollama run qwen2.5:3b
 ollama run hf.co/second-state/Bielik-4.5B-v3.0-Instruct-GGUF:Q4_K_M
+```
 
 and ensure it is listening on:
 
