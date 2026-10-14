@@ -71,12 +71,6 @@ and ensure it is listening on:
 http://localhost:11434
 ```
 
-Then pull a model such as:
-
-```bash
-ollama pull qwen2.5:3b
-```
-
 Launch the Gradio app:
 
 ```bash
